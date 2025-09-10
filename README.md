@@ -94,15 +94,6 @@ Investment & Advisory:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shridharan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridharan&layout=compact&theme=default"/>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 I'm always interested in:
