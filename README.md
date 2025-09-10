@@ -82,6 +82,12 @@ Investment & Advisory:
 **Data & Storage**  
 `PostgreSQL` `MySQL` `ElasticSearch` `Redis`
 
+**AI & Machine Learning**
+`LLMs` `RAG` `Prompt Engineering` `Vector Databases` `AI Agents` 
+
+**AI Tools & Platforms**
+`OpenAI API` `Claude API` `LangChain` `Pinecone` `Mastra`
+
 **Practices**  
 `System Design` `CI/CD` `Agile/Scrum` `Feature Flagging` `A/B Testing`
 
