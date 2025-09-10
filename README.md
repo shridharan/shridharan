@@ -74,7 +74,7 @@ Investment & Advisory:
 ### 🛠️ Technical Expertise
 
 **Languages & Frameworks**  
-`Java` `Spring Boot` `Python` `Node.js` `React` `PHP`
+`Node.js` `React` `PHP`
 
 **Infrastructure & Cloud**  
 `AWS` `Docker` `Kubernetes` `Microservices` `Event-Driven Architecture`
