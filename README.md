@@ -1,138 +1,124 @@
-================================================================================
-                              SHRIDHARAN MUTHU
-           Founder | CTO | Engineering Leader | Angel Investor
-================================================================================
+# Hi there, I'm Shridharan 👋
 
-CONTACT
--------
-Location : San Francisco Bay Area
-Email    : shridharan.m@gmail.com  
-LinkedIn : linkedin.com/in/shridharanmuthu
+**`Founder | CTO | Engineering Leader | Angel Investor`**
 
-================================================================================
-EXECUTIVE SUMMARY
-================================================================================
+I'm a technology executive with 15+ years of experience building and scaling engineering organizations. Currently exploring AI innovations while actively investing in and mentoring the next generation of tech leaders.
 
-Seasoned technology executive with 15+ years building and scaling engineering 
-organizations from startup to enterprise. Co-founded Diagon (equipment sourcing 
-platform) and led engineering growth at Snackpass from 3 to 35 engineers while 
-achieving 10X GMV growth ($10M to $100M+). Proven track record of technical 
-innovation, team building, and successful M&A transitions. Active angel 
-investor and mentor to emerging tech leaders.
+<p align="left">
+  <a href="https://linkedin.com/in/shridharanmuthu">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shridharan.m@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
-================================================================================
-PROFESSIONAL EXPERIENCE
-================================================================================
+---
 
-AI ENGINEER @ Stealth AI Startup
----------------------------------
-Jul 2025 - Present
-• Building innovative AI-powered solutions in stealth mode
+### 🚀 What I'm Up To
 
-CO-FOUNDER & CTO @ Diagon
---------------------------
-Feb 2023 - Jun 2025
-• Founded and built first-of-its-kind B2B equipment sourcing platform from 
-  zero to production, integrating hardware, services, and financing
-• Designed scalable microservices architecture handling multi-vendor 
-  integrations, real-time inventory sync, and embedded financing workflows
-• Owned end-to-end product development: customer discovery → MVP → iteration
-• Recruited and led engineering team; established culture and tech standards
-• Participated in fundraising, investor relations, and strategic partnerships
-• Full-stack ownership: backend services, APIs, integrations, AWS infrastructure
+- 🤖 Building innovative AI solutions at a stealth startup
+- 💡 Recently exited as Co-Founder & CTO of **Diagon** (B2B equipment marketplace)
+- 💰 Angel investing in B2B SaaS and marketplace startups
+- 🎯 Mentoring engineering leaders through First Round Fast Track and Plato
 
-HEAD OF ENGINEERING @ Snackpass
---------------------------------
-Sep 2020 - Jun 2022
-• Scaled engineering: 3 → 35 engineers in 12 months (12X growth)
-• Drove revenue: $10M → $100M+ GMV (10X growth) through technical innovation
-• Key deliverables:
-  - Stripe Terminal integration for seamless payments
-  - Kiosk upgrades + inventory management + Guestbook
-  - CRM solutions and delivery integrations
-• Introduced: feature flags, automated deploys, incident management
-• Created engineering career ladder and coached emerging leaders
+---
 
-VP OF ENGINEERING, BACKEND @ Zoosk Inc.
-----------------------------------------
-Jul 2019 - Jun 2020
-• M&A Leadership: Managed Zoosk acquisition by Spark Networks (4 time zones)
-• Revenue impact: 
-  - Search migration → 2% sales improvement
-  - Email validation → 10% funnel conversion increase
-• Led platform migration to Yopeso ensuring business continuity
-• Executed career transition plans for all team members
-• Bridged domain knowledge gaps between 3 companies
+### 💼 Career Highlights
 
-DIRECTOR OF ENGINEERING, BACKEND @ Zoosk Inc.
-----------------------------------------------
-Jan 2018 - Jul 2019
-• Managed 3 teams (API/Services, Search, Payments): 15 engineers total
-• Modernization:
-  - Legacy microservices → Spring Boot, Docker, ASG
-  - 18 search shards → single ElasticSearch cluster
-  - Enhanced photo service preventing peak outages
-• Owned: SmartPick, Campaign, Search, Profiles, Notifications, Payments
-• Led GDPR compliance across backend teams
-• 93% retention rate over 3 years
+#### **Co-Founder & CTO** @ Diagon `2023-2025`
+> Built first-of-its-kind B2B equipment sourcing platform from zero to production
+- Designed scalable microservices architecture for multi-vendor integrations
+- Led product development from customer discovery through launch
+- Established engineering culture and technical standards from scratch
 
-PROGRESSIVE ENGINEERING ROLES @ Zoosk Inc.
--------------------------------------------
-Sep 2012 - Jan 2018
-• Software Developer → Lead Software Engineer
-• Led API/Services, Search & Churn, Platform Services teams
+#### **Head of Engineering** @ Snackpass `2020-2022`
+> Scaled engineering org from 3 to 35 engineers while driving 10X revenue growth
+- Grew GMV from $10M to $100M+ through technical innovation
+- Architected Stripe Terminal integration and inventory management system
+- Introduced modern engineering practices: feature flags, CI/CD, incident management
 
-FINANCIAL SOFTWARE DEVELOPER @ Bloomberg LP
---------------------------------------------
-Feb 2010 - Sep 2012
-• Integrated Trading Systems with Portfolio Analysis Systems
-• Enhanced BDS for FX securities, eliminating manual Excel rebalancing
-• Migration: Data Mapping → Data Layer architecture
+#### **VP/Director of Engineering** @ Zoosk `2018-2020`
+> Led backend engineering through growth and successful M&A transition
+- Managed acquisition by Spark Networks across 4 time zones
+- Maintained 93% team retention while modernizing legacy infrastructure
+- Improved funnel conversion by 10% through technical optimizations
 
-================================================================================
-LEADERSHIP & ADVISORY
-================================================================================
+#### **Previous Experience**
+- **Progressive Engineering Roles** @ Zoosk `2012-2018`
+- **Financial Software Developer** @ Bloomberg LP `2010-2012`
 
-Angel Investor                    Jun 2021 - Present
-• Direct investments and AngelList syndications in B2B SaaS/marketplaces
+---
 
-First Round Fast Track Mentor     Feb 2021 - 2024
+### 🏆 Impact & Achievements
 
-Plato Mentor                      Jun 2019 - 2024
-• Mentored 12 leaders through 60+ sessions
+```yaml
+Leadership:
+  - Team Scaling: Grew engineering from 3 → 35 engineers in 12 months
+  - Retention: Maintained 93% engineering retention rate
+  - Mentorship: Guided 12+ engineering leaders through 60+ sessions
 
-Techstars Los Angeles Advisor     Fall 2023
+Business Impact:
+  - Revenue Growth: Drove 10X GMV increase ($10M → $100M+)
+  - M&A Success: Led technical transition preserving team and knowledge
+  - Product Launch: Built B2B marketplace from zero to production
 
-Everything Marketplaces Member     Oct 2024 - Present
+Investment & Advisory:
+  - Angel Investor: Active portfolio in B2B SaaS/marketplaces
+  - Techstars: Los Angeles cohort advisor (Fall 2023)
+  - First Round: Fast Track mentor (2021-2024)
+```
 
-================================================================================
-EDUCATION
-================================================================================
+---
 
-MS Computer Science (Networking & Security) | University of Texas at Arlington
-B.Tech Information Technology               | Anna University
+### 🛠️ Technical Expertise
 
-================================================================================
-TECHNICAL STACK
-================================================================================
+**Languages & Frameworks**  
+`Java` `Spring Boot` `Python` `Node.js` `React` `PHP`
 
-Languages    : Java, Spring Boot, PHP, Python, Node.js, React
-Infrastructure: AWS, Docker, Kubernetes, Microservices, Event-Driven Architecture
-Databases    : MySQL, PostgreSQL, ElasticSearch, Redis
-Practices    : Agile/Scrum, CI/CD, Feature Flagging, A/B Testing, System Design
+**Infrastructure & Cloud**  
+`AWS` `Docker` `Kubernetes` `Microservices` `Event-Driven Architecture`
 
-================================================================================
-KEY ACHIEVEMENTS
-================================================================================
+**Data & Storage**  
+`PostgreSQL` `MySQL` `ElasticSearch` `Redis`
 
-[✓] Co-founded Diagon (2023-2025): Built B2B marketplace from zero
-[✓] Scaled teams 3 → 35 engineers at Snackpass
-[✓] Drove 10X revenue growth ($10M → $100M+ GMV) at Snackpass
-[✓] Managed successful M&A transition at Zoosk across 4 time zones
-[✓] Maintained 93% engineering retention rate at Zoosk
-[✓] Active angel investor with early-stage portfolio
-[✓] Mentored 12+ engineering leaders via Plato and First Round
+**Practices**  
+`System Design` `CI/CD` `Agile/Scrum` `Feature Flagging` `A/B Testing`
 
-================================================================================
-                                    EOF
-================================================================================
+---
+
+### 🎓 Education
+
+- **MS Computer Science** (Networking & Security) - University of Texas at Arlington
+- **B.Tech Information Technology** - Anna University
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shridharan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridharan&layout=compact&theme=default"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in:
+- 🚀 Innovative startup ideas and technical challenges
+- 💡 Angel investment opportunities in B2B SaaS/marketplaces
+- 🏗️ Engineering leadership and scaling discussions
+- 🧑‍🏫 Mentorship and advisory opportunities
+
+<p align="left">
+  <strong>Reach out:</strong> 
+  <a href="mailto:shridharan.m@gmail.com">shridharan.m@gmail.com</a> | 
+  <a href="https://linkedin.com/in/shridharanmuthu">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building the future, one commit at a time.</i>
+</p>
